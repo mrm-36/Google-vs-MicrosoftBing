@@ -1,6 +1,7 @@
 # Google-vs-MicrosoftBing
 
 1. Description
+
 1.1 Main Idea
 Study the bias, positivity, negativity, objectivity, and subjectivity of the two search engines Google and Microsoft Bing individually and then in comparison with each other, using a series of controversial queries.
 
@@ -11,6 +12,7 @@ I believe that this project is one way of emphasizing the claim that AI has stil
 My objective is to show that even two of the giants in the world of technology haven’t figured out yet how to make a completely unbiased and objective algorithm.
 
 2. Project
+
 2.1 Part I
 Build a tool that takes a controversial query as input and returns an analysis of the sentiments, classification, polarity, objectivity, and subjectivity in the top 10 results in each of Google and Microsoft Bing, and a comparison of these parameters in the results of each against the other.
 
@@ -18,6 +20,7 @@ Build a tool that takes a controversial query as input and returns an analysis o
 Using the same tool, iterate over 50 controversial pre-defined queries and return an overview of the analysis of sentiments, classification, polarity, objectivity and subjectivity done on each query in each of Google and Microsoft Bing, and then in comparison with each other.
 
 3. Metrics
+
 3.1 Kendall Tau
 In statistics, the Kendall Tau is a metric used to measure the ordinal association between two measured quantities.
 It is a measure of rank correlation: the similarity of the orderings of the data.
